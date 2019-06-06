@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-sftkdemo",
+  "version": "0.1.0",
+  "description": "plugin for demo",
+  "cordova": {
+    "id": "cordova-plugin-sftkdemo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ederEnriquez/sftk-demo.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Eder Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ederEnriquez/sftk-demo/issues"
+  },
+  "homepage": "https://github.com/ederEnriquez/sftk-demo#readme"
+}
