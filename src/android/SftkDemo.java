@@ -43,7 +43,7 @@ public class SftkDemo extends CordovaPlugin {
         final PluginResult result = 
             (message != null && message.length() > 0) ? 
                 new PluginResult(PluginResult.Status.OK, "Un saludo de Softtek para  " + message):
-                new PluginResult(PluginResult.Status.ERROR, "Tienes que saludar a alguien"):
+                new PluginResult(PluginResult.Status.ERROR, "Tienes que saludar a alguien");
         callbackContext.sendPluginResult(result);
         //callbackContext.success(message);
         //callbackContext.error("Expected one non-empty string argument.");
