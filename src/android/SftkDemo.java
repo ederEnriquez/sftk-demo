@@ -1,4 +1,4 @@
-package cordova-plugin-sftkdemo;
+package com.cordova.plugin.sftkdemo;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
